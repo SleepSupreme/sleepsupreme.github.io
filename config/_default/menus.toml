@@ -24,22 +24,15 @@
 #  weight = 20
 
 #[[main]]
-<<<<<<< HEAD
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 20
 
 #[[main]]
-=======
->>>>>>> d60afb4d6462ef9abd4fa221deaa5ea1bae8b031
 #  name = "Talks"
 #  url = "#talks"
 #  weight = 40
 
-<<<<<<< HEAD
-
-=======
->>>>>>> d60afb4d6462ef9abd4fa221deaa5ea1bae8b031
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
