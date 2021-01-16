@@ -25,15 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-<<<<<<< HEAD
   - course: Bachelor of Technology in Computer Science, 2022
     institution: Sichuan University
     year: 2022
-=======
-  - course: Bachelor of Technology in Computer Science
-  - year: 2022
-  - institution: Sichuan University
->>>>>>> d60afb4d6462ef9abd4fa221deaa5ea1bae8b031
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
