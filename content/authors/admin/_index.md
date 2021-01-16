@@ -26,8 +26,8 @@ interests:
 education:
   courses:
   - course: Bachelor of Technology in Computer Science, 2022
-  - institution: Sichuan University
-  - year: 2022
+    institution: Sichuan University
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: linchenguo0622@gmail.com
+  link: "linchenguo0622@gmail.com"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
