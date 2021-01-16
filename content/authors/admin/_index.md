@@ -11,7 +11,7 @@ role: Undergraduate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Sichuan University
-  url: https://www.scu.edu.cn/
+  url: www.scu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision and machine learning.
