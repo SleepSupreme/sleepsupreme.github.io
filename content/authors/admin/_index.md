@@ -26,8 +26,8 @@ interests:
 education:
   courses:
   - course: Bachelor of Technology in Computer Science
-  - institution: Sichuan University
   - year: 2022
+  - institution: Sichuan University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
