@@ -20,7 +20,7 @@ bio: My research interests include computer vision and machine learning.
 interests:
 - Computer Vision
 - Machine Learning
-- Deep Steganography
+- Information Hiding
 
 # Education to show in About widget
 education:
@@ -64,4 +64,4 @@ email: ""
 highlight_name: false
 ---
 
-Chenguo Lin (林琛果) is an undergraduate of computer science, supervised by Prof. Qijun Zhao, at Sichuan University, China. His research interests include computer vision and machine learning. Currently he is working on deep steganography.
+Chenguo Lin (林琛果) is an undergraduate of computer science, supervised by Prof. Qijun Zhao, at Sichuan University, China. His research interests include computer vision and machine learning. Currently he is working on deep information hiding.
