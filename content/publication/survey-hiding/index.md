@@ -16,7 +16,7 @@ publication_types:
   - "3"
 authors:
   - Chaoning Zhang
-  - admin
+  - **admin**
   - Philipp Benz
   - Kejiang Chen
   - Weiming Zhang
