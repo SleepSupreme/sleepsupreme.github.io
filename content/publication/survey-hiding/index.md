@@ -39,7 +39,7 @@ url_project: null
 publication_short: "**arXiv**"
 url_source: null
 url_video: null
-featured: false
+featured: true
 projects: []
 date: 2021-03-02
 url_slides: null
