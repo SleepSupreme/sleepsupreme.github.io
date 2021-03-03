@@ -14,14 +14,14 @@ abstract: Deep neural networks (DNNs) have demonstrated remarkable performance
   are also covered.
 slides: ""
 url_arxiv: https://arxiv.org/abs/2103.01498
-url_pdf: https://arxiv.org/pdf/2103.01498.pdf
+url_pdf: null
 title: A Survey On Universal Adversarial Attack
 publication_types:
   - "3"
 authors:
   - Chaoning Zhang
   - Philipp Benz
-  - admin
+  - **admin**
   - Adil Karjauv
   - Jing Wu
   - In So Kweon
