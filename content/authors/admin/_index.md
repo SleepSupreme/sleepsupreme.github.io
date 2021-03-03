@@ -14,13 +14,13 @@ organizations:
   url: http://www.scu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and machine learning.
+bio: My research interests include computer vision, machine learning and information hiding.
 
 # Interests to show in About widget
 interests:
 - Computer Vision
 - Machine Learning
-- Information Hiding
+- Information Hiding (Steganography & Watermarking)
 
 # Education to show in About widget
 education:
@@ -64,4 +64,4 @@ email: ""
 highlight_name: false
 ---
 
-Chenguo Lin (林琛果) is an undergraduate of computer science, supervised by Prof. Qijun Zhao, at Sichuan University, China. His research interests include computer vision and machine learning. Currently he is working on deep information hiding.
+Chenguo Lin (林琛果) is an undergraduate of computer science, supervised by Prof. Qijun Zhao, at Sichuan University, China. His research interests include computer vision and machine learning. Currently he is working on deep information hiding, including steganography and watermarking.
