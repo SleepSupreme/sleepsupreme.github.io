@@ -1,74 +1,49 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "A Brief Survey on Deep Learning Based Data Hiding, Steganography and Watermarking"
-authors: ["Chaoning Zhang", "admin", "Philipp Benz", "Kejiang Chen", "Weiming Zhang", "In So Kweon"]
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-date: 2021-03-02
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: 
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*arXiv*"
-publication_short: "**arXiv**"
-
-abstract: "Data hiding is the art of concealing messages with limited perceptual changes. Recently, deep learning has provided enriching perspectives for it and made significant progress. In this work, we conduct a brief yet comprehensive review of existing literature and outline three meta-architectures. Based on this, we summarize specific strategies for various applications of deep hiding, including steganography, light field messaging and watermarking. Finally, further insight into deep hiding is provided through incorporating the perspective of adversarial attack."
-
-# Summary. An optional shortened abstract.
-summary: ""
-
-tags: []
-categories: []
-featured: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
+abstract: Data hiding is the art of concealing messages with limited perceptual
+  changes. Recently, deep learning has provided enriching perspectives for it
+  and made significant progress. In this work, we conduct a brief yet
+  comprehensive review of existing literature and outline three
+  meta-architectures. Based on this, we summarize specific strategies for
+  various applications of deep hiding, including steganography, light field
+  messaging and watermarking. Finally, further insight into deep hiding is
+  provided through incorporating the perspective of adversarial attack.
+slides: ""
 url_pdf: https://arxiv.org/pdf/2103.01607.pdf
 url_arxiv: https://arxiv.org/abs/2103.01607
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+title: A Brief Survey on Deep Learning Based Data Hiding, Steganography and
+  Watermarking
+publication_types:
+  - "3"
+authors:
+  - Chaoning Zhang
+  - admin
+  - Philipp Benz
+  - Kejiang Chen
+  - Weiming Zhang
+  - In So Kweon
+author_notes:
+  - Equal Contribution
+  - Equal Contribution
+  - Equal Contribution
+doi: ""
+publication: "*arXiv*"
+tags: []
+categories: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+summary: ""
+url_dataset: null
+url_project: null
+publication_short: "**arXiv**"
+url_source: null
+url_video: null
+featured: false
 projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+date: 2021-03-02
+url_slides: null
+publishDate: null
+url_poster: null
+url_code: null
 ---
