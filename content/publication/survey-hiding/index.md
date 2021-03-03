@@ -8,8 +8,8 @@ abstract: Data hiding is the art of concealing messages with limited perceptual
   messaging and watermarking. Finally, further insight into deep hiding is
   provided through incorporating the perspective of adversarial attack.
 slides: ""
+url_pdf: null
 url_arxiv: https://arxiv.org/abs/2103.01607
-url_pdf: https://arxiv.org/pdf/2103.01607.pdf
 title: A Brief Survey on Deep Learning Based Data Hiding, Steganography and
   Watermarking
 publication_types:
