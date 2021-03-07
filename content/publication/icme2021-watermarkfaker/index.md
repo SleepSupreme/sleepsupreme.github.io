@@ -20,7 +20,7 @@ publication_types:
   - "1"
 authors:
   - Ruowei Wang
-  - "**admin**"
+  - admin
   - Qijun Zhao
   - Feiyu Zhu
 author_notes:
