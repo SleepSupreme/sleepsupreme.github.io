@@ -13,8 +13,8 @@ abstract: Digital watermarking has been widely used to protect the copyright and
   watermarked image. Our experiments show that the proposed watermark faker can
   effectively crack digital image watermarkers in both spatial and frequency
   domains, suggesting the risk of such forgery attacks.
-url_pdf: null
-url_arxiv: null
+url_pdf: https://arxiv.org/pdf/2103.12489.pdf
+url_arxiv: https://arxiv.org/abs/2103.12489
 title: "Watermark Faker: Towards Forgery of Digital Image Watermarking"
 publication_types:
   - "1"
