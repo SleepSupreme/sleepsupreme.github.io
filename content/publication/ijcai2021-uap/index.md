@@ -29,7 +29,7 @@ author_notes:
   - Equal Contribution
   - Equal Contribution
 doi: null
-publication: "*International Joint Conference on Artificial Intelligence 2021*"
+publication: "*International Joint Conference on Artificial Intelligence (IJCAI) 2021*"
 publication_short: "**IJCAI2021**"
 featured: false
 date: 2021-03-02
