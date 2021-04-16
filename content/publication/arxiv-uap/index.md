@@ -16,7 +16,7 @@ url_pdf: https://arxiv.org/pdf/2103.01498.pdf
 url_arxiv: https://arxiv.org/abs/2103.01498
 title: A Survey On Universal Adversarial Attack
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Chaoning Zhang
   - Philipp Benz
@@ -29,8 +29,8 @@ author_notes:
   - Equal Contribution
   - Equal Contribution
 doi: null
-publication: "*arXiv*"
-publication_short: "**arXiv**"
+publication: "*International Joint Conference on Artificial Intelligence 2021*"
+publication_short: "**IJCAI2021**"
 featured: false
 date: 2021-03-02
 publishDate: null
