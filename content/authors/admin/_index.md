@@ -2,11 +2,11 @@
 title: Chenguo Lin
 role: Undergraduate
 bio: My research interests include computer vision, machine learning and
-  information hiding.
+  iadversarial attack.
 interests:
   - Computer Vision
   - Machine Learning
-  - Information Hiding
+  - Adversarial Attack
 social:
   - icon: envelope
     icon_pack: fas
