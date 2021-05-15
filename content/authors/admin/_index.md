@@ -14,6 +14,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/SleepSupreme
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=jZ7MDcMAAAAJ
 organizations:
   - name: Sichuan University
     url: http://www.scu.edu.cn/
