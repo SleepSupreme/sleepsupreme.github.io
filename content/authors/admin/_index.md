@@ -30,7 +30,7 @@ education:
       year: 2022
 email: ""
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 
 Chenguo Lin (林琛果) is an undergraduate of computer science, supervised by Prof. Qijun Zhao, at Sichuan University, China. His research interests include computer vision and machine learning. Currently he is working on deep information hiding, including steganography and watermarking.
