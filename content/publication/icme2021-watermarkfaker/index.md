@@ -14,7 +14,7 @@ abstract: Digital watermarking has been widely used to protect the copyright and
   effectively crack digital image watermarkers in both spatial and frequency
   domains, suggesting the risk of such forgery attacks.
 url_pdf: https://arxiv.org/pdf/2103.12489.pdf
-url_arxiv: https://arxiv.org/abs/2103.12489
+url_code: https://github.com/SleepSupreme/WatermarkFaker
 title: "Watermark Faker: Towards Forgery of Digital Image Watermarking"
 publication_types:
   - "1"
@@ -32,5 +32,4 @@ publication_short: "**ICME2021**"
 featured: false
 date: 2020-12-14
 publishDate: null
-url_code: null
 ---
